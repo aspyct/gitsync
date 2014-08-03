@@ -1,7 +1,7 @@
 GITsync
 ===
 Very straightforward backup solution for those who use git.
-
+It requires that your git can login automatically (i.e. using a private key, for example).
 
 gitup
 ---
